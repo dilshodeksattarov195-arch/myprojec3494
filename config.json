@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingstringify",
+        "uuid": 14241544,
+        "checksum": "qf1995"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
